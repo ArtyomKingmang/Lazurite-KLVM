@@ -1,0 +1,7 @@
+// while loop
+
+x = 10
+while(x < 20) {
+    println(x)
+    x++
+}

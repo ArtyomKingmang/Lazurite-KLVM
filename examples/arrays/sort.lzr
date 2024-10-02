@@ -1,0 +1,6 @@
+using "lzr.utils.arrays"
+
+array = [3, 6, 7, 8, 87, 5, 1, 43]
+sorted_array = arrays.sort(array)
+
+print(sorted_array)
